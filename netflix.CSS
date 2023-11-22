@@ -9,4 +9,7 @@ body{background: linear-gradient(to top, red, black);}
 .bb{display: flex;}
 button{background-color: red;
 border: red;
+color: white;
 }
+.c{color: white;}
+.d{color: white;}
