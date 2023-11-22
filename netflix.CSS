@@ -1,0 +1,12 @@
+.AA{display: flex;
+justify-content: space-between;
+}
+.AA a{
+    text-decoration: none;
+    color: white;
+}
+body{background: linear-gradient(to top, red, black);}
+.bb{display: flex;}
+button{background-color: red;
+border: red;
+}
